@@ -36,12 +36,12 @@ const columns = [
     field: "phone",
     type: "string",
     headerName: "Phone",
-    width: 200,
+    width: 150,
   },
   {
     field: "createdAt",
     headerName: "Created At",
-    width: 200,
+    width: 100,
     type: "string",
   },
   {

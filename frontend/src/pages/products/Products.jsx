@@ -25,24 +25,24 @@ const columns = [
     field: "color",
     type: "string",
     headerName: "Color",
-    width: 150,
+    width: 100,
   },
   {
     field: "price",
     type: "string",
     headerName: "Price",
-    width: 200,
+    width: 150,
   },
   {
     field: "producer",
     headerName: "Producer",
     type: "string",
-    width: 200,
+    width: 150,
   },
   {
     field: "createdAt",
     headerName: "Created At",
-    width: 200,
+    width: 120,
     type: "string",
   },
   {
